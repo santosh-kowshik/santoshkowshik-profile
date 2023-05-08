@@ -27,8 +27,8 @@
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Storage Developer at IBM! <img src="https://user-images.githubusercontent.com/118261127/236742273-0fabb426-1970-4d10-92d4-3599a48d2332.png" width="50px"/>
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Contents, Eager to learn new technologies.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I write blogs on medium and try projects on my own.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-kowshik-h-r-40b6b293)
