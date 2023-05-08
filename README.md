@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Storage Developer at IBM! <img src="https://user-images.githubusercontent.com/118261127/236742273-0fabb426-1970-4d10-92d4-3599a48d2332.png" width="40px"/>
+- :telescope: I’m working as a Storage Developer at IBM! <img src="https://user-images.githubusercontent.com/118261127/236742273-0fabb426-1970-4d10-92d4-3599a48d2332.png" width="50px"/>
 
 - :seedling: Exploring Technical Content Writing.
 
