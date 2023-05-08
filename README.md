@@ -4,7 +4,9 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/santosh-kowshik-h-r-40b6b293/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn Badge"/>
+  <a href="https://medium.com/@santosh.kowshik">
+    <img src="https://img.shields.io/badge/-medium-000000?logo=medium&logoColor=white&style=for-the-badge&logoWidth=30" alt="Medium Badge"/>
 </div>
 
 <div id="images" align="center">
